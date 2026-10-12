@@ -2,7 +2,6 @@
 tasks = []
 
 while True:
-    print("\n----- TODO APP -----")
     print("1. Add an item")
     print("2. Delete an item at index")
     print("3. Remove the last item")
